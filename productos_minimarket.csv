@@ -1,0 +1,101 @@
+codigo,nombre,precio,stock
+1001,Arroz Selecto 5 lbs,250.0,50
+1002,Aceite de Cocina 1 Litro,185.0,40
+1003,Leche Entera 1 Litro,75.0,30
+1004,Pan de Molde Grande,115.0,20
+1005,Café Molido 225g,145.0,60
+1006,Habichuelas Rojas 1 lb,65.0,80
+1007,Habichuelas Negras 1 lb,60.0,45
+1008,Azúcar Crema 2 lbs,90.0,55
+1009,Azúcar Blanca 2 lbs,105.0,35
+1010,Salami Induveca 1 lb,195.0,25
+1011,Queso Gouda 1 lb,320.0,15
+1012,Queso Cheddar 1 lb,350.0,12
+1013,Mantequilla con Sal 200g,125.0,28
+1014,Huevos Cartón 30 Unidades,240.0,20
+1015,Spaghetti 400g,45.0,100
+1016,Salsa de Tomate 200g,40.0,90
+1017,Sopita de Pollo (Caja 12 ud),85.0,50
+1018,Sal Molida 1 lb,25.0,120
+1019,Vinagre Blanco 500ml,55.0,40
+1020,Mayonesa 450g,160.0,35
+1021,Salsa Ketchup 400g,110.0,30
+1022,Mostaza 250g,85.0,25
+1023,Atún en Agua 170g,95.0,70
+1024,Sardinas en Tomate 155g,65.0,65
+1025,Harina de Trigo 2 lbs,80.0,40
+1026,Harina de Maíz 1 lb,45.0,50
+1027,Avena en Hojuelas 400g,85.0,45
+1028,Cereal de Maíz 300g,175.0,20
+1029,Chocolate en Pollo 200g,130.0,30
+1030,Galletas Dulces Paquete,60.0,85
+1031,Galletas de Sal Paquete,55.0,90
+1032,Refresco Cola 2 Litros,110.0,50
+1033,Refresco Sabores 2 Litros,95.0,45
+1034,Agua Purificada 5 Gallones,90.0,30
+1035,Agua Embotellada 500ml,25.0,150
+1036,Jugo de Naranja 1 Litro,120.0,25
+1037,Bebida Energizante 250ml,95.0,40
+1038,Jabón de Baño 110g,60.0,100
+1039,Shampoo 400ml,220.0,20
+1040,Acondicionador 400ml,230.0,18
+1041,Crema Dental 100ml,115.0,60
+1042,Cepillo Dental,50.0,80
+1043,Detergente en Polvo 1 kg,185.0,35
+1044,Cloro Multiuso 1 Litro,50.0,70
+1045,Suavizante de Tela 1 Litro,165.0,25
+1046,Jabón Lavaplatos 400g,85.0,50
+1047,Esponja Lavaplatos 2 ud,45.0,90
+1048,Papel Higiénico 4 Rollos,140.0,40
+1049,Toallas Sanitarias 10 ud,95.0,45
+1050,Servilletas Paquete 100 ud,65.0,60
+1051,Insecticida en Spray 300ml,210.0,15
+1052,Fósforos Caja 10 ud,35.0,100
+1053,Velas Blancas Paquete 4 ud,50.0,80
+1054,Menta de Menta Paquete,40.0,110
+1055,Chicle Paquete 5 ud,25.0,130
+1056,Papas Fritas Bolsa 150g,95.0,50
+1057,Platanitos Salados 100g,45.0,70
+1058,Chicharrón de Fundita 80g,50.0,60
+1059,Maní Salado 100g,40.0,85
+1060,Sazón Líquido 500ml,95.0,40
+1061,Sazón en Polvo 100g,35.0,90
+1062,Ajo en Pasta 200g,75.0,35
+1063,Pimienta Molida 50g,45.0,50
+1064,Orégano Molido 50g,40.0,55
+1065,Canela en Rama 30g,35.0,60
+1066,Vino Tinto de Cocina 750ml,280.0,12
+1067,Cerveza Nacional 650ml,160.0,48
+1068,Cerveza Pequeña 355ml,100.0,60
+1069,Ron Añejo 700ml,550.0,10
+1070,Hielo Bolsa 5 lbs,60.0,25
+1071,Salchichas de Pavo Paquete,130.0,30
+1072,Jamón de Pechuga de Pavo 1 lb,280.0,15
+1073,Tocineta Ahumada 200g,195.0,20
+1074,Hamburguesas de Res 4 ud,220.0,18
+1075,Nuggets de Pollo 400g,240.0,15
+1076,Maíz Dulce en Lata 400g,70.0,65
+1077,Guisantes en Lata 400g,65.0,60
+1078,Vegetales Mixtos Lata 400g,75.0,50
+1079,Melocotones en Almíbar 800g,190.0,14
+1080,Leche Condensada 397g,110.0,40
+1081,Leche Evaporada 315g,70.0,75
+1082,Crema de Leche 200g,95.0,30
+1083,Yogurt de Fresa 1 Litro,185.0,12
+1084,Gelatina en Polvo 85g,45.0,80
+1085,Flan en Polvo 100g,55.0,60
+1086,Pasas Deshidratadas 200g,85.0,40
+1087,Ciruelas Pasas 200g,120.0,25
+1088,Aceitunas Rellenas 200g,105.0,35
+1089,Alcaparras 100g,85.0,40
+1090,Pasta de Tomate Concentrada 400g,80.0,55
+1091,Sopa Instantánea en Vaso,50.0,95
+1092,Papitas para Perro Caliente 100g,60.0,40
+1093,Pan para Hamburguesa 6 ud,110.0,20
+1094,Pan para Hot Dog 6 ud,100.0,22
+1095,Bizcocho Empacado 250g,130.0,15
+1096,Aluminio Papel Rollo 10m,125.0,30
+1097,Plástico Envolvente Rollo,95.0,25
+1098,Vasos Plásticos N°8 50 ud,75.0,50
+1099,Platos Desechables 25 ud,85.0,45
+1100,Fundas de Basura 10 ud,110.0,40
